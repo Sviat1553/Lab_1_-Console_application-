@@ -9,4 +9,5 @@
 3.Отримання відповіді від комп'ютера
 
 # Скріншот
-[Рис.1 - Скріншот гри](https://github.com/Sviat1553/Lab_1_-Console_application/raw/master/Lab_1.JPG)
+
+![Image 1 - screenshoot with the game](https://user-images.githubusercontent.com/36728685/41204555-ae9a9482-6cee-11e8-98fe-48e6829de3b1.JPG)
